@@ -1,7 +1,6 @@
 # Machine-Learning-Projects
 
 
-
  1) Credit Card Default Prediction = https://github.com/Nikhil-Singh-Bhadoriya/Credit-Card-Default-Prediction
 
  2) Sensor Fault Detection = https://github.com/Nikhil-Singh-Bhadoriya/Sensor-Fault-Detection
